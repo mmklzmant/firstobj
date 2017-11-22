@@ -1,0 +1,23 @@
+{
+  "name": "firstobj",
+  "description": "第一个项目",
+  "main": "index.js",
+  "authors": [
+    "mmklzmant"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "firstobj"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
